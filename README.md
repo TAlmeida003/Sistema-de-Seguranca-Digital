@@ -29,21 +29,21 @@ Dessa forma, o projeto descrito deverá receber uma senha de 0 a 15 que ao ser c
 A interface de simulação é feita através do uso das chaves presentes no kit LEDS-CPLD. Em relação aos sinais 
 de saída referentes a cada situação, por sua vez, são demonstrados através do LED RGB e do display de 7 segmentos também já incluídos na placa.
 
-![Alt text](<Imagens/Interface CPLD.png>)
+![Alt text](Imagens/Interface-CPLD.png)
 
 Funcionamento do protótipo para Sistema de Segurança Digital com as senhas iguais.
 
-![Alt text](<Imagens/Teste de senha certa.png>)
+![Alt text](Imagens/Teste-de-senha-certa.png)
 
 Funcionamento do protótipo para Sistema de Segurança Digital
 com senhas de até 3 dígitos de diferença positivos e negativos.
 
-![Alt text](<Imagens/Teste de senha quase certa.png>)
+![Alt text](Imagens/Teste-de-senha-quase-certa.png)
 
 Funcionamento do protótipo para Sistema de Segurança Digital
  com diferença superior a 3 (quando a senha é incorreta).
 
-![Alt text](<Imagens/Teste de senha errada.png>)
+![Alt text](Imagens/Teste-de-senha-errada.png)
 
 # **Tecnologias Utilizadas**
 
